@@ -1,0 +1,78 @@
+#message {
+	float:left;
+}
+
+#searchDiv {
+	float:left;
+	width:100%;
+	padding:20px;
+}
+
+.label {
+	float:left;
+	font-weight:bold;
+	font-size:12pt;
+}
+
+.cell {
+	float:left;
+	width: 175px;
+	font-size: 10pt;
+}
+
+.inputText {
+	float:left;
+	margin:0 10px 0 10px;
+}
+
+#createHeader {
+	float:left;
+	width:100%;
+	padding:20px;
+}
+
+#createInputs {
+	float:left;
+}
+
+#createButton {
+	float:left;
+	margin:0 10px 0 15px;
+}
+
+.editButton {
+	float:left;
+}
+.deleteButton {
+	float:left;
+}
+.cancelButton {
+	float:left;
+}
+.saveButton{
+	float:left;
+}
+
+#createDiv {
+	float:left;
+	margin-bottom:20px;
+}
+
+#resultsDiv {
+	float:left;
+	padding:20px;
+}
+
+#results {
+	float:left;
+	width:900px;
+}
+
+#headerDiv {
+	float:left;
+	margin:0 0 10px 0;
+}
+
+.userRow {
+	float:left;
+}
